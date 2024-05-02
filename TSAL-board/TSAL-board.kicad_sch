@@ -2259,7 +2259,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c0c1e9a3-4b53-48b0-9ae5-0151800b6871)
   )
-  (text "V_{th} = 2.495 x {(440k + R10 + R11) / (R10 + R11)}\nV_{th} = 58.2V\nsim結果 V_{th} = 61.1V (遅れ補償分計算値からズレあり)"
+  (text "V_{th} = 2.495 x {(440k + R10 + R11) / (R10 + R11)}\nV_{th} = 58.2V\nsim結果 V_{th} = L -> H : 63.2V, H -> L : 47.8V (遅れ補償、シュミットトリガ分計算値からズレあり)"
     (at 43.18 182.88 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c7b9697c-8641-4074-aa77-fd3732573992)
